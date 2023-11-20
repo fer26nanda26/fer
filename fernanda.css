@@ -1,1 +1,9 @@
-
+body {
+   backgraund: #CCCCCC
+}
+p {
+    text-align: center;
+}
+em strong {
+    colar:red;
+}
